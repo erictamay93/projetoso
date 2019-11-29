@@ -10,7 +10,7 @@ PROJETO FINAL DE SISTEMAS OPERACIONAIS - TURMA B
 
 WINDOWS:
 • Caso não tenha o Python atualizado em seu computador, baixá-lo no link https://www.python.org/downloads/
-• Baixar o arquivo no link LINKLINKLINKLINKLINKLINKLINK
+• Baixar o arquivo no link https://github.com/erictamay93/projetoso
 • Abrir o Prompt de Comando.
 • Localizar o diretório onde o arquivo foi baixado.
 • Copiar o diretório do arquivo (exemplo: C:\Users\erictamay\PycharmProjects\Sistemas Operacionais).
@@ -22,12 +22,12 @@ WINDOWS:
 • Após sua execução, basta verificar se os resultados obtidos alcançaram os objetivos propostos.
 
 LINUX:
-- Usar o comando mkdir para criar uma pasta.
-  exemplo: mkdir pasta_nome
-- Usar o comando cd para entrar na pasta criada, Exemplo: cd pasta_nome.
-- Executar no terminal: git clone https://github.com/LuizFrL/Sistemas-Operacionais.git
-- Executar comando: cd Sistemas-Operacionais.(nome do diretório).
-- Executar comando: python Threads.py para executar o script.
+• Abrir o Terminal e digitar "git clone https://github.com/erictamay93/projetoso.git" sem aspas para baixar o arquivo e criar uma pasta.
+• Acessar a pasta através do comando "cd <repositório>" sem aspas.
+• Digitar "ls -l" sem aspas para ver os arquivos dentro da pasta.
+• Digitar o comando "chmod +x ProjetoSO.py" sem aspas para transformar em arquivo executável.
+• Digitar novamente "ls -l" sem aspas para verificar se o arquivo já pode ser executado.
+• Executar o arquivo digitando "python ProjetoSO.py" sem aspas.
 
 ========== OBSERVAÇÕES GERAIS ==========
 
